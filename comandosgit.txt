@@ -6,12 +6,16 @@ GIT STATUS --> VERIFICAR ALTERAÇÕES DE PASTAS E ARQUIVOS NO PROJETO
 GIT ADD . -->ADICIONA TODOS OS ARQUIVOS E PASTAS MODIFICADOS, AO STAGE AREA
 GIT COMMIT -M "MESSAGE HERE" --> CRIA E DESCREVE UM PONTO NA HISTÓRIA
 GIT LOG -->HISTÓRICO DE COMMIT DO PROJETO 
-
  	aula 02
 como criar um repositório
 - git init --> Inicia um repositório
 - git status --> oque tem no repositório
 - pwd --> ver em que repositorio estamos
 - git add documento --> adiciona o documento selecionado para staging area, e em caso de modificação do documento será mostrado na tela
--git rm --cached ."nomedodocumento" --> remove o documento do staging area
+- git rm --cached ."nomedodocumento" --> remove o documento do staging area
 - git restore --> volta o arquivo como estava anteriormente, antes da modificação
+- git commit -m "initial commit" --> como iniciar um commit
+
+commit é o
+Ato de salvar permanentemente um conjunto de mudanças feitas em um projeto,
+como um ponto de salvamento em um "diário" do código, usando um sistema de controle de versão como o Git
