@@ -23,3 +23,7 @@ como um ponto de salvamento em um "diário" do código, usando um sistema de con
 			aula 03
 git log --> analisar a linha de tempo dos commits
 git checkout --> analisa um commit especifico da linha de tempo
+
+comandos para atualizar e enviar atualizações entre repositorios remoto e local
+git pull--> puxa modificações do repositorio remoto para o repositorio local
+git push -->envia as modificações locais para o repositorio remoto
