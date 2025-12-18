@@ -7,7 +7,7 @@ GIT ADD . -->ADICIONA TODOS OS ARQUIVOS E PASTAS MODIFICADOS, AO STAGE AREA
 GIT COMMIT -M "MESSAGE HERE" --> CRIA E DESCREVE UM PONTO NA HISTÓRIA
 GIT LOG -->HISTÓRICO DE COMMIT DO PROJETO 
  	aula 02
-como criar um repositório
+Como criar um repositório
 - git init --> Inicia um repositório
 - git status --> oque tem no repositório
 - pwd --> ver em que repositorio estamos
@@ -19,3 +19,7 @@ como criar um repositório
 commit é o
 Ato de salvar permanentemente um conjunto de mudanças feitas em um projeto,
 como um ponto de salvamento em um "diário" do código, usando um sistema de controle de versão como o Git
+
+			aula 03
+git log --> analisar a linha de tempo dos commits
+git checkout --> analisa um commit especifico da linha de tempo
